@@ -3,5 +3,5 @@
 그러니 GitHub Desktop을 내려받아 주시기 바랍니다.
 https://github.com/apps/desktop
 
-이 아래는 티원간의 공유 하는 방법입니다.
+옆 링크는 티원간의 공유 하는 방법을 알려주는 사이트 입니다.
 https://seongduck.tistory.com/77
